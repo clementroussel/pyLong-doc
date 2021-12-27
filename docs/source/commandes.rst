@@ -73,7 +73,17 @@ Commandes du menu Figure
 |rafraichir| : rafraichissement de  la figure (Ctrl + R)
 
 .. |rafraichir| image:: ./icones/rafraichir.png
-                :scale: 50%      
+                :scale: 50%    
+                
+|deplacer| : activation/désactivation du mode déplacement
+
+.. |deplacer| image:: ./icones/deplacer.png
+              :scale: 50%  
+                
+|zoomer| : activation/désactivation du mode zoom
+
+.. |zoomer| image:: ./icones/zoomer.png
+            :scale: 50%                 
                 
 |exporter_figure| : ouverture de la boîte de dialogue d'exportation de la figure (Ctrl + P)
 
