@@ -4,7 +4,14 @@ Liste des commandes
 Projet
 ======
 
-The |biohazard| symbol must be used on containers used to dispose of medical waste.
+|nouveau| : création d'un projet pyLong vide
 
-.. |biohazard| image:: ./icones/pyLong.png
-               :scale: 100%
+.. |nouveau| image:: ./icones/nouveau.png
+             :scale: 75%
+             
+|ouvrir| : ouverture d'un projet pyLong existant
+
+.. |ouvrir| image:: ./icones/ouvrir.png
+             :scale: 75%
+             
+             
