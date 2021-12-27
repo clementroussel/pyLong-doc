@@ -54,7 +54,7 @@ today_fmt = '%d %B %Y'
 # a list of builtin themes.
 #
 html_theme = 'sphinx_rtd_theme'
-html_logo = '.\icones\pyLong.png'
+#html_logo = '.\icones\pyLong.png'
 html_show_copyright = False
 html_show_sphinx = False
 html_show_sourcelink = False
@@ -65,5 +65,5 @@ html_show_sourcelink = False
 html_static_path = ['_static']
 
 # -- Options for LaTeX output -------------------------------------------------
-latex_logo = '.\icones\pyLong.png'
+#latex_logo = '.\icones\pyLong.png'
 latex_documents = [('index', 'pylong.tex', 'Guide utilisateur de pyLong', 'Damien K., Clément R.', 'manual', True)]
