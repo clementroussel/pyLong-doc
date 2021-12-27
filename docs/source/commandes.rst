@@ -39,10 +39,10 @@ Commandes du menu Interface
 
 |agrandir_canvas| : agrandissement de la taille du canvas (Ctrl + +)
 
-.. |agrandir_canvas| image:: ./icones/agrandir_canvas.png (Ctrl + -)
+.. |agrandir_canvas| image:: ./icones/agrandir_canvas.png
                      :scale: 50%
                      
-|retrecir_canvas| : rétrécissement de la taille du canvas
+|retrecir_canvas| : rétrécissement de la taille du canvas (Ctrl + -)
 
 .. |retrecir_canvas| image:: ./icones/retrecir_canvas.png
                      :scale: 50%   
