@@ -93,4 +93,28 @@ Commandes du menu Figure
 |copier_figure| : copie de la figure courante vers le presse-papier (Ctrl + C)
 
 .. |copier_figure| image:: ./icones/copier_figure.png
-                   :scale: 50%                      
+                   :scale: 50%                    
+                   
+Commandes du menu Subplot
+=========================
+
+Commandes du menu Profil en long
+================================
+
+Commandes du menu Edition interactive
+=====================================
+
+Commandes du menu Annotation
+============================
+
+Commandes du menu Ligne de rappel
+=================================
+
+Commandes du menu Toolbox
+=========================
+
+Commandes du menu Autres données
+================================
+
+Commandes du menu Ressources
+============================
