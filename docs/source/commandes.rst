@@ -1,8 +1,8 @@
 Liste des commandes
 *******************
 
-Projet
-======
+Commandes du menu Projet
+========================
 
 |nouveau| : création d'un projet pyLong vide
 
@@ -14,4 +14,13 @@ Projet
 .. |ouvrir| image:: ./icones/ouvrir.png
              :scale: 75%
              
+|enregistrer| : enregistrement du projet pyLong courant
+
+.. |enregistrer| image:: ./icones/enregistrer.png
+             :scale: 75%
              
+|enregistrer_sous| : enregistrement du projet pyLong courant à un autre emplacement
+
+.. |ouvrir| image:: ./icones/enregistrer_sous.png
+             :scale: 75%             
+
