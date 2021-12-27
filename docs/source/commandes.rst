@@ -36,3 +36,23 @@ Commandes du menu Interface
 
 .. |plein_ecran| image:: ./icones/plein_ecran.png
                  :scale: 50%
+
+|agrandir_canvas| : agrandissement de la taille du canvas
+
+.. |agrandir_canvas| image:: ./icones/agrandir_canvas.png
+                     :scale: 50%
+                     
+|retrecir_canvas| : rétrécissement de la taille du canvas
+
+.. |retrecir_canvas| image:: ./icones/retrecir_canvas.png
+                     :scale: 50%   
+                     
+|ajuster_canvas_largeur| : ajustement du canvas sur toute sa largeur
+
+.. |ajuster_canvas_largeur| image:: ./icones/ajuster_canvas_largeur.png
+                            :scale: 50%
+                     
+|ajuster_canvas_hauteur| : ajustement du canvas sur toute sa hauteur
+
+.. |ajuster_canvas_hauteur| image:: ./icones/ajuster_canvas_hauteur.png
+                            :scale: 50%                    
