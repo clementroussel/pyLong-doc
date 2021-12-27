@@ -2,7 +2,7 @@ Guide utilisateur de pyLong
 ***************************
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 2
    :caption: Sommaire
 
    introduction
