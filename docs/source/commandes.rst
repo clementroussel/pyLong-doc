@@ -37,9 +37,9 @@ Commandes du menu Interface
 .. |plein_ecran| image:: ./icones/plein_ecran.png
                  :scale: 50%
 
-|agrandir_canvas| : agrandissement de la taille du canvas
+|agrandir_canvas| : agrandissement de la taille du canvas (Ctrl + +)
 
-.. |agrandir_canvas| image:: ./icones/agrandir_canvas.png
+.. |agrandir_canvas| image:: ./icones/agrandir_canvas.png (Ctrl + -)
                      :scale: 50%
                      
 |retrecir_canvas| : rétrécissement de la taille du canvas
@@ -56,3 +56,31 @@ Commandes du menu Interface
 
 .. |ajuster_canvas_hauteur| image:: ./icones/ajuster_canvas_hauteur.png
                             :scale: 50%                    
+                            
+Commandes du menu Figure
+========================
+
+|mise_en_page| : ouverture de la boîte de dialogue de mise en page
+
+.. |mise_en_page| image:: ./icones/mise_en_page.png
+                  :scale: 50%  
+                 
+|mise_en_page_avancee| : ouverture de la boîte de dialogue de mise en page avancée
+
+.. |mise_en_page_avancee| image:: ./icones/mise_en_page_avancee.png
+                          :scale: 50%
+                          
+|rafraichir| : rafraichissement de  la figure (Ctrl + R)
+
+.. |rafraichir| image:: ./icones/rafraichir.png
+                :scale: 50%      
+                
+|exporter_figure| : ouverture de la boîte de dialogue d'exportation de la figure (Ctrl + P)
+
+.. |exporter_figure| image:: ./icones/exporter_figure.png
+                     :scale: 50%        
+                     
+|copier_figure| : copie de la figure courante vers le presse-papier (Ctrl + C)
+
+.. |copier_figure| image:: ./icones/copier_figure.png
+                   :scale: 50%                      
