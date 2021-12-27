@@ -98,6 +98,11 @@ Commandes du menu Figure
 Commandes du menu Subplot
 =========================
 
+|subplots| : ouverture de la boîte de dialogue de gestion des subplots
+
+.. |subplots| image:: ./icones/subplots.png
+              :scale: 50%  
+
 Commandes du menu Profil en long
 ================================
 
