@@ -22,5 +22,5 @@ Commandes du menu Projet
 |enregistrer_sous| : enregistrement du projet pyLong courant à un autre emplacement
 
 .. |enregistrer_sous| image:: ./icones/enregistrer_sous.png
-             :scale: 75%             
+             :scale: 50%             
 
