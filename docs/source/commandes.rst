@@ -141,13 +141,33 @@ Commandes du menu Profil en long
 .. |exporter| image:: ./icones/exporter.png
               :scale: 50%
               
-|supprimer| : suppression du ou des profil(s) sélectionné(s)
+|supprimer| : suppression du ou des profil(s) sélectionné(s) (Alt + P)
 
 .. |supprimer| image:: ./icones/supprimer.png
                :scale: 50%
 
 Commandes du menu Edition interactive
 =====================================
+
+|editer| : activation/désactivation du mode édition interactive du profil
+
+.. |editer| image:: ./icones/editer.png
+            :scale: 50%
+            
+|ajouter_sommet| : activation/désactivation de l'ajout de sommet (Shift + A)
+
+.. |ajouter_sommet| image:: ./icones/ajouter_sommet.png
+                    :scale: 50%
+                    
+|supprimer_sommet| : activation/désactivation de la suppression de sommet (Shift + S)
+
+.. |supprimer_sommet| image:: ./icones/supprimer_sommet.png
+                      :scale: 50%
+                      
+|magnetisme| : activation/désactivation de l'interpolation sur profil
+
+.. |magnetisme| image:: ./icones/magnetisme.png
+                :scale: 50%
 
 Commandes du menu Annotation
 ============================
