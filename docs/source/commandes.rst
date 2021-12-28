@@ -253,6 +253,11 @@ Commandes du menu Toolbox
 .. |toolbox| image:: ./icones/toolbox.png
              :scale: 50%
              
+|proprietes_calcul| : ouverture de la boîte de dialogue des propriétés du calcul
+
+.. |proprietes_calcul| image:: ./icones/proprietes_calcul.png
+                       :scale: 50%
+             
 |supprimer| : suppression des calculs (Alt + C)
 
 .. |supprimer| image:: ./icones/supprimer.png
