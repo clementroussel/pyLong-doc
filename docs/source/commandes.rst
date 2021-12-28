@@ -116,7 +116,7 @@ Commandes du menu Profil en long
 .. |tableau| image:: ./icones/tableau.png
              :scale: 50%              
 
-|style| : ouverture de la boîte de dialogue des propriété&s graphiques du profil
+|style| : ouverture de la boîte de dialogue des propriétés graphiques du profil
 
 .. |style| image:: ./icones/style.png
            :scale: 50% 
