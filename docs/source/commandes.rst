@@ -204,7 +204,7 @@ Commandes du menu Annotation
            
 |copier_style| : copie du style graphique de l'annotation
 
-.. |copier_stype| image:: ./icones/copier_stype.png
+.. |copier_style| image:: ./icones/copier_style.png
                   :scale: 50%   
                   
 |coller_style| : application du style graphique aux annotations
@@ -214,8 +214,8 @@ Commandes du menu Annotation
                   
 |ajuster_annotations| : ouverture de la boîte de dialogue d'ajustement des annotations ponctuelles
 
-.. |ajuster| image:: ./icones/ajuster.png
-             :scale: 50% 
+.. |ajuster_annotations| image:: ./icones/ajuster_annotations.png
+                         :scale: 50% 
              
 |dupliquer| : duplique les annotations
 
