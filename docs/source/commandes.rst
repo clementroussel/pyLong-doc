@@ -202,22 +202,22 @@ Commandes du menu Annotation
 .. |style| image:: ./icones/style.png
            :scale: 50%
            
-|copier_style| : copie du style graphique de l'annotation
+|copier_style| : copie du style graphique de l'annotation (Ctrl + Alt + C)
 
 .. |copier_style| image:: ./icones/copier_style.png
                   :scale: 50%   
                   
-|coller_style| : application du style graphique aux annotations
+|coller_style| : application du style graphique aux annotations (Ctrl + Alt + V)
 
 .. |coller_style| image:: ./icones/coller_style.png
                   :scale: 50% 
                   
-|ajuster_annotations| : ouverture de la boîte de dialogue d'ajustement des annotations ponctuelles
+|ajuster_annotations| : ouverture de la boîte de dialogue d'ajustement des annotations ponctuelles (Ctrl + Alt + Z)
 
 .. |ajuster_annotations| image:: ./icones/ajuster_annotations.png
                          :scale: 50% 
              
-|dupliquer| : duplique les annotations
+|dupliquer| : duplique les annotations (Ctrl + Alt + D)
 
 .. |dupliquer| image:: ./icones/dupliquer.png
                :scale: 50% 
