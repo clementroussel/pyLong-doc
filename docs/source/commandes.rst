@@ -235,11 +235,56 @@ Commandes du menu Annotation
 Commandes du menu Ligne de rappel
 =================================
 
+|creation_ligne_rappel| : création de lignes de rappel à partir des annotations
+
+.. |creation_ligne_rappel| image:: ./icones/creation_ligne_rappel.png
+                           :scale: 50%
+                           
+|gestion_ligne_rappel| : ouverture de la boîte de dialogue de gestion des lignes de rappel
+
+.. |gestion_ligne_rappel| image:: ./icones/gestion_ligne_rappel.png
+                          :scale: 50%
+
 Commandes du menu Toolbox
 =========================
+
+|toolbox| : ouverture de la toolbox
+
+.. |toolbox| image:: ./icones/toolbox.png
+             :scale: 50%
+             
+|supprimer| : suppression des calculs (Alt + C)
+
+.. |supprimer| image:: ./icones/supprimer.png
+               :scale: 50%
 
 Commandes du menu Autres données
 ================================
 
+|ajouter_donnee| : ouverture de la boîte de dialogue d'ajout de données
+
+.. |ajouter_donnee| image:: ./icones/ajouter_donnee.png
+             :scale: 50%
+             
+|style| : ouverture de la boîte de dialogue des propriétés graphiques des données
+
+.. |style| image:: ./icones/style.png
+           :scale: 50%
+             
+|supprimer| : suppression des données (Alt + D)
+
+.. |supprimer| image:: ./icones/supprimer.png
+               :scale: 50%
+
 Commandes du menu Ressources
 ============================
+
+|aide| : ouverture de la documentation en ligne
+
+.. |aide| image:: ./icones/aide.png
+          :scale: 50%
+             
+|propos| : ouverture de la boîte de dialogue des "À propos de pyLong"
+
+.. |propos| image:: ./icones/propos.png
+            :scale: 50%
