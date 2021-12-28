@@ -172,6 +172,66 @@ Commandes du menu Edition interactive
 Commandes du menu Annotation
 ============================
 
+|texte| : ajout d'un texte
+
+.. |texte| image:: ./icones/texte.png
+           :scale: 50%
+           
+|annotation_ponctuelle| : ajout d'une annotation ponctuelle
+
+.. |annotation_ponctuelle| image:: ./icones/annotation_ponctuelle.png
+                           :scale: 50%
+                           
+|annotation_lineaire| : ajout d'une annotation linéaire
+
+.. |annotation_lineaire| image:: ./icones/annotation_lineaire.png
+                         :scale: 50%
+                         
+|zone| : ajout d'une zone
+
+.. |zone| image:: ./icones/zone.png
+          :scale: 50%
+          
+|rectangle| : ajout d'un rectangle
+
+.. |rectangle| image:: ./icones/rectangle.png
+               :scale: 50%
+               
+|style| : ouverture de la boîte de dialogue des propriétés graphiques de l'annotation
+
+.. |style| image:: ./icones/style.png
+           :scale: 50%
+           
+|copier_stype| : copie du style graphique de l'annotation
+
+.. |copier_stype| image:: ./icones/copier_stype.png
+                  :scale: 50%   
+                  
+|coller_style| : application du style graphique aux annotations
+
+.. |coller_style| image:: ./icones/coller_style.png
+                  :scale: 50% 
+                  
+|ajuster| : ouverture de la boîte de dialogue d'ajustement des annotations ponctuelles
+
+.. |ajuster| image:: ./icones/ajuster.png
+             :scale: 50% 
+             
+|dupliquer| : duplique les annotations
+
+.. |dupliquer| image:: ./icones/dupliquer.png
+               :scale: 50% 
+               
+|groupes| : ouverture de la boîte de dialogue de gestion des groupes d'annotations
+
+.. |groupes| image:: ./icones/groupes.png
+             :scale: 50% 
+             
+|supprimer| : suppression du ou des annotation(s) sélectionnée(s) (Alt + A)
+
+.. |supprimer| image:: ./icones/supprimer.png
+               :scale: 50%
+
 Commandes du menu Ligne de rappel
 =================================
 
