@@ -1,6 +1,10 @@
 Liste des commandes
 *******************
 
+.. image:: ./icones/liste_commandes.png
+   :align: center
+   :scale: 75%
+
 Commandes du menu Projet
 ========================
 
