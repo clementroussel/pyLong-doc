@@ -202,7 +202,7 @@ Commandes du menu Annotation
 .. |style| image:: ./icones/style.png
            :scale: 50%
            
-|copier_stype| : copie du style graphique de l'annotation
+|copier_style| : copie du style graphique de l'annotation
 
 .. |copier_stype| image:: ./icones/copier_stype.png
                   :scale: 50%   
@@ -212,7 +212,7 @@ Commandes du menu Annotation
 .. |coller_style| image:: ./icones/coller_style.png
                   :scale: 50% 
                   
-|ajuster| : ouverture de la boîte de dialogue d'ajustement des annotations ponctuelles
+|ajuster_annotations| : ouverture de la boîte de dialogue d'ajustement des annotations ponctuelles
 
 .. |ajuster| image:: ./icones/ajuster.png
              :scale: 50% 
