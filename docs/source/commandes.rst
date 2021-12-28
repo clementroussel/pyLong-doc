@@ -141,7 +141,7 @@ Commandes du menu Profil en long
 .. |exporter| image:: ./icones/exporter.png
               :scale: 50%
               
-|supprimer| : suppression du ou des profil(s) sélectionné(s) (Alt + P)
+|supprimer| : suppression des profils (Alt + P)
 
 .. |supprimer| image:: ./icones/supprimer.png
                :scale: 50%
@@ -227,7 +227,7 @@ Commandes du menu Annotation
 .. |groupes| image:: ./icones/groupes.png
              :scale: 50% 
              
-|supprimer| : suppression du ou des annotation(s) sélectionnée(s) (Alt + A)
+|supprimer| : suppression des annotations (Alt + A)
 
 .. |supprimer| image:: ./icones/supprimer.png
                :scale: 50%
