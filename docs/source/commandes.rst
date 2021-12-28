@@ -106,6 +106,46 @@ Commandes du menu Subplot
 Commandes du menu Profil en long
 ================================
 
+|ajouter| : ouverture de la boîte de dialogue d'ajout de profil en long
+
+.. |ajouter| image:: ./icones/ajouter.png
+             :scale: 50%  
+             
+|tableau| : ouverture de la boîte de dialogue du tableau des valeurs du profil
+
+.. |tableau| image:: ./icones/tableau.png
+             :scale: 50%              
+
+|style| : ouverture de la boîte de dialogue des propriété&s graphiques du profil
+
+.. |style| image:: ./icones/style.png
+           :scale: 50% 
+           
+|trier| : ouverture de la boîte de dialogue de tri du profil
+
+.. |trier| image:: ./icones/trier.png
+           :scale: 50%
+           
+|filtrer| : ouverture de la boîte de dialogue de filtrage du profil
+
+.. |filtrer| image:: ./icones/filtrer.png
+             :scale: 50%
+             
+|simplifier| : ouverture de la boîte de dialogue de simplification automatisée du profil
+
+.. |simplifier| image:: ./icones/simplifier.png
+               :scale: 50%
+
+|exporter| : ouverture de la boîte de dialogue d'exportation du profil
+
+.. |exporter| image:: ./icones/exporter.png
+              :scale: 50%
+              
+|supprimer| : suppression du ou des profil(s) sélectionné(s)
+
+.. |supprimer| image:: ./icones/supprimer.png
+               :scale: 50%
+
 Commandes du menu Edition interactive
 =====================================
 
