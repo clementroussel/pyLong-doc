@@ -11,7 +11,6 @@ Installation
 .. note::
    - **pyLong** n'est disponible que pour le système d'exploitation Windows.
    - **pyLong** est diffusé sous les termes de la `licence GPL`_.
-   - Le code source est disponible ici.
    
 ..  _licence GPL:  https://fr.wikipedia.org/wiki/Licence_publique_g%C3%A9n%C3%A9rale_GNU
 
@@ -28,9 +27,14 @@ Version 22.01
 
 `pyLong v22.01 debug`_
 
-.. _pyLong v22.01 debug: https://sourceforge.net/projects/pylong/files/pyLong_22-01_debug.exe/download
+`pyLong v22.01 code source`_
+
 
 .. _pyLong v22.01: https://sourceforge.net/projects/pylong/files/pyLong_22-01_debug.exe/download
+
+.. _pyLong v22.01 debug: https://sourceforge.net/projects/pylong/files/pyLong_22-01_debug.exe/download
+
+.. _pyLong v22.01 code source: https://sourceforge.net/projects/pylong/files/pyLong_22-01_debug.exe/download
 
 .. note::
    - Pour obtenir les installateurs des versions précédentes, merci d'envoyer une demande par mail à `clement.roussel@onf.fr`_.
