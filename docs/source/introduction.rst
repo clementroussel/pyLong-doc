@@ -22,3 +22,5 @@ La petite histoire de pyLong
 ============================
 
 
+À qui s'adresse pyLong ?
+========================
