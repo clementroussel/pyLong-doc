@@ -12,6 +12,6 @@ pyLong, quésaco ?
 
 .. figure:: ./captures/apercu.png
    :align: center
-   :scale: 50%
+   :scale: 25%
    
    Aperçu du logiciel pyLong.
