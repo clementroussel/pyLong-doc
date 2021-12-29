@@ -23,11 +23,9 @@ Téléchargement de l'installateur
 Version 22.01
 ^^^^^^^^^^^^^
 
-`pyLong v22.01`_
-
-`pyLong v22.01 debug`_
-
-`pyLong v22.01 code source`_
+- `pyLong v22.01`_
+- `pyLong v22.01 debug`_
+- `pyLong v22.01 code source`_
 
 
 .. _pyLong v22.01: https://sourceforge.net/projects/pylong/files/pyLong_22-01.exe/download
