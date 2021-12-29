@@ -1,3 +1,7 @@
+.. image:: ./icones/onf-rtm.png
+   :align: center
+   :scale: 100%
+
 Bienvenue sur le site du logiciel pyLong
 ****************************************
 
