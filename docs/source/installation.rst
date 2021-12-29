@@ -35,5 +35,5 @@ Version 22.01
 .. note::
    - Pour obtenir les installateurs des versions précédentes, merci d'envoyer une demande par `mail`_
    
-.. mail: clement.roussel@onf.fr
+.. _mail: clement.roussel@onf.fr
 
