@@ -15,3 +15,8 @@ pyLong, quésaco ?
    :scale: 25%
    
    Aperçu du logiciel pyLong.
+   
+La petite histoire de pyLong
+============================
+
+
