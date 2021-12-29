@@ -6,7 +6,6 @@ Installation
    :scale: 75%
 
 |
-|
 
 .. note::
    - **pyLong** n'est disponible que pour le système d'exploitation Windows.
