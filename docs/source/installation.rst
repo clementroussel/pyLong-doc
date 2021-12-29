@@ -18,4 +18,14 @@ Installation
 Procédure d'installation
 ========================
 
+Téléchargement de l'installateur
+--------------------------------
+
+Version 22.01
+^^^^^^^^^^^^^
+
+`pyLong version 22.01 debug`_
+
+
+.. _pyLong version 22.01 debug: https://officenationaldesforets-my.sharepoint.com/:u:/g/personal/clement_roussel_onf_fr/EXcl2TcGXP5EnhL0gDqUQPEB-A-vF_6PQ9l-gu_jEQjROw?e=sc5Dqy
 
