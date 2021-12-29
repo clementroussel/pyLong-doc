@@ -33,7 +33,7 @@ Version 22.01
 .. _pyLong v22.01: https://officenationaldesforets-my.sharepoint.com/:u:/g/personal/clement_roussel_onf_fr/EXcl2TcGXP5EnhL0gDqUQPEB-A-vF_6PQ9l-gu_jEQjROw?e=sc5Dqy
 
 .. note::
-   - Pour obtenir les installateurs des versions précédentes, merci d'envoyer une demande par `mail`_
+   - Pour obtenir les installateurs des versions précédentes, merci d'envoyer une demande par mail à `clement.roussel@onf.fr`_.
    
-.. _mail: clement.roussel@onf.fr
+.. _clement.roussel@onf.fr: clement.roussel@onf.fr
 
