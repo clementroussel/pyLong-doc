@@ -223,7 +223,7 @@ Commandes du menu Annotation
 .. |ajuster_annotations| image:: ./icones/ajuster_annotations.png
                          :scale: 50% 
              
-|dupliquer| : duplique les annotations (Ctrl + Alt + D)
+|dupliquer| : duplication des annotations (Ctrl + Alt + D)
 
 .. |dupliquer| image:: ./icones/dupliquer.png
                :scale: 50% 
