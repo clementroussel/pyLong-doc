@@ -1,5 +1,5 @@
-Guide utilisateur de pyLong
-***************************
+Bienvenue sur le site du logiciel pyLong
+****************************************
 
 .. toctree::
    :maxdepth: 2
