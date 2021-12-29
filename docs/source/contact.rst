@@ -1,6 +1,9 @@
 Contact
 *******
 
+|
+|
+
 .. image:: ./icones/contact.png
    :align: center
    :scale: 75%
