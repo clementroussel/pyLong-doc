@@ -1,6 +1,6 @@
 .. image:: ./icones/onf-rtm.png
    :align: center
-   :scale: 10%
+   :scale: 100%
    
 |
 |
