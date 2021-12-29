@@ -44,7 +44,8 @@ Version 22.01
 Installation
 ------------
 
-Rendez vous dans votre dossier *Téléchargements* puis exécuter l'installateur. 
+Rendez vous dans votre dossier *Téléchargements* puis exécuter l'installateur:
+
 - Si vous ne possédez pas les droits administrateurs, vous devrez indiquer un chemin d'accès sur votre disque dur où vous avez les droits d'écriture, ex.:*C:/Users/<utilisateur>/AppData/Local* où *<utilisateur>* correspond à votre identifiant de compte Windows. Lorsque l'installation est terminée, rendez vous dans le répertoire où **pyLong** a été installé puis répérez l'exécutable *pyLong.exe*. 
 - Dans le cas contraire, ne changez rien au chemin d'installation. Vous pouvez alors lancez **pyLong** depuis le menu *démarrer* de la barre des tâches de Windows.
 
