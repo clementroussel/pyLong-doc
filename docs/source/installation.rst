@@ -34,7 +34,7 @@ Version 22.01
 
 .. _pyLong v22.01 debug: https://sourceforge.net/projects/pylong/files/pyLong_22-01_debug.exe/download
 
-.. _pyLong v22.01 code source: https://sourceforge.net/projects/pylong/files/pyLong_22-01_debug.exe/download
+.. _pyLong v22.01 code source: https://sourceforge.net/projects/pylong/files/pyLong_22-01_src.zip/download
 
 .. note::
    - Pour obtenir les installateurs des versions précédentes, merci d'envoyer une demande par mail à `clement.roussel@onf.fr`_.
