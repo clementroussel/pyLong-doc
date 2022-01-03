@@ -13,8 +13,8 @@ Installation
    
 ..  _licence GPL:  https://fr.wikipedia.org/wiki/Licence_publique_g%C3%A9n%C3%A9rale_GNU
 
-Procédure d'installation
-========================
+Procédure
+=========
 
 Téléchargement de l'installateur
 --------------------------------
@@ -48,4 +48,7 @@ Rendez vous dans votre dossier *Téléchargements* puis exécuter l'installateur
    - ex.: *C:/Users/<utilisateur>/AppData/Local/pyLong* où *<utilisateur>* correspond à votre identifiant de compte Windows.
 
 
+Lancement
+---------
 
+Rechercher l'application **pyLong** depuis le menu *Démarrer* de Windows.
