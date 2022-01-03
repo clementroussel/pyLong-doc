@@ -52,3 +52,9 @@ Lancement
 ---------
 
 Rechercher l'application **pyLong** depuis le menu *Démarrer* de Windows.
+
+
+Désinstallation
+---------------
+
+Rendez vous dans les *Paramètres systèmes* de Windows : *Ajouter ou supprimer des programmes* pour désinstaller **pyLong**.
