@@ -52,8 +52,8 @@ Rendez vous dans votre dossier *Téléchargements* puis exécuter l'installateur
 Lancement
 ---------
 
-- Si vous avez téléchargé la version *debug*, rechercher l'application **pyLong** dans le répertoire d'installation configuré précedemment.
-- Sinon, recherche l'application **pyLong** depuis le menu *Démarrer* de Windows.
+- Si vous avez téléchargé la version *debug*, rechercher l'application **pyLong** dans le répertoire d'installation configuré précédemment.
+- Sinon, recherchez l'application **pyLong** depuis le menu *Démarrer* de Windows.
 
 
 Désinstallation
