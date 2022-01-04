@@ -23,7 +23,6 @@ Version 22.01
 ^^^^^^^^^^^^^
 
 - `pyLong v22.01`_
-- `pyLong v22.01 debug`_
 - `pyLong v22.01 code source`_
 
 
@@ -34,7 +33,6 @@ Version 22.01
 .. _pyLong v22.01 code source: https://sourceforge.net/projects/pylong/files/pyLong_22-01_src.zip/download
 
 .. note::
-   - Utilisez la version *debug* si votre anti-virus repère **pyLong** comme un cheval de troie.
    - Pour obtenir les installateurs des versions précédentes, merci d'envoyer une demande par mail à `clement.roussel@onf.fr`_.
    
 .. _clement.roussel@onf.fr: clement.roussel@onf.fr
@@ -52,12 +50,10 @@ Rendez vous dans votre dossier *Téléchargements* puis exécuter l'installateur
 Lancement
 ---------
 
-- Si vous avez téléchargé la version *debug*, rechercher l'application **pyLong** dans le répertoire d'installation configuré précédemment.
-- Sinon, recherchez l'application **pyLong** depuis le menu *Démarrer* de Windows.
+- Recherchez l'application **pyLong** dans le répertoire d'installation configuré précédemment.
 
 
 Désinstallation
 ---------------
 
-- La version *debug* se désinstalle depuis l'exécutable *uninstall.exe* situé dans le répertoire d'installation de **pyLong**.
-- Sinon, rendez vous dans les *Paramètres systèmes* de Windows : *Ajouter ou supprimer des programmes* pour désinstaller **pyLong**.
+- **pyLong** se désinstalle grâce à l'exécutable *uninstall.exe* situé dans son répertoire d'installation.
