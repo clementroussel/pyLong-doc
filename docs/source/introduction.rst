@@ -16,7 +16,7 @@ pyLong, quésaco ?
    :align: center
    :scale: 10%
 
-Il est développé et maintenu par le Service de Restauration des Terrains en Montagne (RTM) de l'`Office National des Fôrets`_ (ONF) et financé conjointement par le `Ministère de l'Agriculture et de l'Alimentation`_.
+Il est développé et maintenu par le Service de Restauration des Terrains en Montagne (RTM) de `l'Office National des Fôrets`_ (ONF) et financé conjointement par le `Ministère de l'Agriculture et de l'Alimentation`_.
 
 .. _`Office National des Fôrets`: https://www.onf.fr/
 .. _`Ministère de l'Agriculture et de l'Alimentation`: https://agriculture.gouv.fr/
