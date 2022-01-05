@@ -13,7 +13,7 @@ Analyse
 .. toctree::
    :maxdepth: 1
 
-   lignes_energie
+   toolbox/lignes_energie
 
 Chutes de blocs
 ===============
@@ -21,7 +21,7 @@ Chutes de blocs
 .. toctree::
    :maxdepth: 1
 
-   lignes_energie_mezap
+   toolbox/lignes_energie_mezap
 
 Laves torrentielles
 ===================
@@ -29,6 +29,6 @@ Laves torrentielles
 .. toctree::
    :maxdepth: 1
 
-   flow-r
-   rickenmann
-   corominas
+   toolbox/flow-r
+   toolbox/rickenmann
+   toolbox/corominas
