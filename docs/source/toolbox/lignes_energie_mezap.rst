@@ -1,7 +1,7 @@
 Ligne d'énergie (MEZAP)
 =======================
 
-.. image:: icones/rock_128.png
+.. image:: icones/chute_blocs.png
    :align: center
    :scale: 50%
    
