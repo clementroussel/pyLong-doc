@@ -18,7 +18,7 @@
 # -- Project information -----------------------------------------------------
 
 project = 'pyLong'
-copyright = '2022, Damien K., Clément R.'
+copyright = '2022, ONF - RTM'
 author = 'Damien K., Clément R.'
 
 
@@ -54,8 +54,8 @@ today_fmt = '%d %B %Y'
 # a list of builtin themes.
 #
 html_theme = 'sphinx_rtd_theme'
-html_logo = './icones/pyLong.png'
-html_show_copyright = False
+html_logo = './icones/onf_pyLong_rtm.png'
+html_show_copyright = True
 html_show_sphinx = False
 html_show_sourcelink = False
 
