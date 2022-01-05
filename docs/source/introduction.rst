@@ -31,3 +31,12 @@ Il est développé et maintenu par le Service de Restauration des Terrains en Mo
    
    Aperçu du logiciel pyLong.
    
+Comment citer pyLong ?
+======================
+
+[Ref]_
+
+.. [Ref] ONF-RTM. (2022). pyLong (22.01) [Logiciel de visualisation, d’analyse et de traitement de profil en long]. https://pylong-doc.readthedocs.io/fr/latest/
+
+
+   
