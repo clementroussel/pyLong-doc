@@ -4,6 +4,8 @@ Modèle Flow-R
 .. image:: ../icones/lave.png
    :align: center
    :scale: 50%
+   
+|
 
 Principe
 --------
