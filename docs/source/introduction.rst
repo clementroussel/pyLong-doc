@@ -12,10 +12,10 @@ pyLong, quésaco ?
 
 **pyLong** est un logiciel de visualisation, d'édition, d'analyse et de traitement de profils en long. Il a été pensé et conçu pour répondre à des besoins liés aux domaines de l'hydraulique torrentielle et des chutes de blocs en milieu montagneux.
 
-Il est développé et maintenu par le Service de Restauration des Terrains en Montagne (RTM) de l'Office National des Fôrets et est financé conjointement par le Ministère de l'Agriculture et de l'Alimentation.
+Il est développé et maintenu par le Service de Restauration des Terrains en Montagne (RTM) de l'`Office National des Fôrets`_ et est financé conjointement par le `Ministère de l'Agriculture et de l'Alimentation`_.
 
-https://www.onf.fr/
-https://agriculture.gouv.fr/
+.. _`Office National des Fôrets`: https://www.onf.fr/
+.. _`Ministère de l'Agriculture et de l'Alimentation`: https://agriculture.gouv.fr/
 
 .. figure:: ./captures/apercu.png
    :align: center
@@ -23,9 +23,3 @@ https://agriculture.gouv.fr/
    
    Aperçu du logiciel pyLong.
    
-La petite histoire de pyLong
-============================
-
-
-À qui s'adresse pyLong ?
-========================
