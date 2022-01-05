@@ -1,7 +1,7 @@
 Modèle Flow-R
 =============
 
-.. image:: icones/lave.png
+.. image:: ../icones/lave.png
    :align: center
    :scale: 50%
 
