@@ -5,6 +5,8 @@ Tutoriels
    :align: center
    :scale: 75%
 
+|
+
 Tour d'horizon de pyLong (20.10)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
