@@ -5,8 +5,8 @@ Tutoriels
    :align: center
    :scale: 75%
 
-Vidéo de démonstration de pyLong v20.10
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Tour d'horizon de pyLong (20.10)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. raw:: html
 
