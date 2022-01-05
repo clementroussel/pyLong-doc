@@ -4,6 +4,8 @@ Contributeurs
 .. image:: icones/contributeurs.png
    :align: center
    :scale: 50%
+   
+|
 
 - Damien Kuss : création de l'outil *pyLong* pour Excel:
 	- **tri**, **filtrage**, **simplification** d'un profil en long
