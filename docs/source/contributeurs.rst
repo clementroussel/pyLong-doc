@@ -1,5 +1,5 @@
 Contributeurs
-=============
+*************
 
 .. image:: icones/contributeurs.png
    :align: center
