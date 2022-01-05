@@ -61,7 +61,7 @@ html_show_sourcelink = False
 
 html_theme_options = {
   'display_version': False,
-  'style_nav_header_background': '#B1D5B3'
+  'style_nav_header_background': '#E3852A'
 }
 
 # Add any paths that contain custom static files (such as style sheets) here,
