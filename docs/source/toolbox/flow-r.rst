@@ -34,7 +34,7 @@ On retrouve donc des valeurs d’angles de ligne d’énergie égaux ou inférie
 
 On notera que le modèle de propagation ne dépend pas du volume de l’évènement.
 
-.. image:: images/flowr.png
+.. image:: ../images/flowr.png
    :align: center
    :scale: 100%
 
