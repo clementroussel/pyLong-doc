@@ -4,6 +4,8 @@ Modèle de Rickenmann
 .. image:: ../icones/lave.png
    :align: center
    :scale: 50%
+   
+|
 
 Principe
 --------
