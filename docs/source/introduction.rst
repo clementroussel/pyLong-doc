@@ -63,6 +63,7 @@ Contributeurs
 =============
 
 - Damien Kuss : création de l'outil pyLong pour Excel: tri, filtrage &simplification d'un profil en long, modèles 1D empiriques de propagation de laves torrentielles (Flow-R, Rickenmann, Corominas)
+- Clément Roussel : création de l'interface graphique
 - Pierre Dupire & Romain Paulhe: aide au développement de l'outil *Ligne d'énergie*
 - Bruno Demolis, Perrine Freydier & Olivier Newinger: retours d'expérience
 - Rémy Martin: aide au développement de l'outil *Lignes d'énergie (MEZAP)*
