@@ -49,6 +49,9 @@ Lancement
 
 - Recherchez l'application **pyLong** dans le répertoire d'installation configuré précédemment.
 
+.. warning::
+   - Un terminal Windows s'ouvre en même temps que **pyLong**. Ignorez le mais ne le fermez pas au risque de fermer **pyLong** également.
+
 
 Désinstallation
 ---------------
