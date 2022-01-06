@@ -20,6 +20,5 @@ Bienvenue sur le site du logiciel pyLong
    commandes
    tutoriels
    toolbox
-   contributeurs
    contact
    
