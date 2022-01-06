@@ -23,7 +23,7 @@ pyLong, quésaco ?
    
    Aperçu du logiciel pyLong.
    
-**pylong** facilite l'interprétation de profils en long générés à partir de modèles numériques de terrain à haute résolution (issus de levés LiDaR notamment). Ces profils comportent en effet plusieurs milliers de points, ce qui rend impossible une interpétation géoémorphologique basée sur l'évolution de la pente longitudinale. 
+**pylong** facilite l'interprétation de profils en long générés à partir de modèles numériques de terrain à haute résolution (issus de levés LiDaR notamment). Ces profils comportent en effet plusieurs milliers de points, ce qui rend impossible une interprétation géoémorphologique basée sur l'évolution de la pente longitudinale. 
 
 **pylong** permet une simplification automatisée et/ou interactive des profils en long et le calcul des pentes longitudinales sur des tronçons homogènes d'un point de vue géomorphologique. 
 
