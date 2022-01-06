@@ -58,3 +58,11 @@ La petite histoire de pyLong
 Une première version basée sur des bibliothèques de calul **Python** et interfacée avec Microsoft Excel a vu le jour en 2018. Une version logicielle de **pyLong** a été développée en 2020 pour faciliter son usage et sa diffusion en interne aux services ONF-RTM, mais aussi dans l'objectif d'une diffusion en externe auprès des partenaires intéressés (collectivités Gémapiennes, bureaux d'études, instituts de recherche, etc.). Celle-ci inclut des développements spécifiques non présents dans la version initiale (Toolbox, fonctionnalités étendues d'affichage, etc.).
 
 A ce jour, seule la version logicielle de **pyLong** est maintenue.
+
+Contributeurs
+=============
+
+- Damien Kuss : création de l'outil pyLong pour Excel: tri, filtrage &simplification d'un profil en long, modèles 1D empiriques de propagation de laves torrentielles (Flow-R, Rickenmann, Corominas)
+- Pierre Dupire & Romain Paulhe: aide au développement de l'outil *Ligne d'énergie*
+- Bruno Demolis, Perrine Freydier & Olivier Newinger: retours d'expérience
+- Rémy Martin: aide au développement de l'outil *Lignes d'énergie (MEZAP)*
