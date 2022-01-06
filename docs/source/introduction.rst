@@ -4,7 +4,7 @@ Introduction
 pyLong, quésaco ?
 =================
 
-**pyLong** est un logiciel de visualisation, d'édition, d'analyse et de traitement de profils en long **développé par les Services de Restauration de Terrains en Montagne de l'Office National des Forêts** (`ONF-RTM`_) **et financé par le Minstère de l'Agriculture et de l'ALimentation** (`MAA`_). Il a été pensé et conçu pour répondre à des besoins liés aux domaines de l'hydraulique torrentielle et des chutes de blocs en milieu montagneux. 
+**pyLong** est un logiciel de visualisation, d'édition, d'analyse et de traitement de profils en long **développé par les Services de Restauration de Terrains en Montagne de l'Office National des Forêts** (`ONF-RTM`_) **et financé par le Minstère de l'Agriculture et de l'Alimentation** (`MAA`_). Il a été pensé et conçu pour répondre à des besoins liés aux domaines de l'hydraulique torrentielle et des chutes de blocs en milieu montagneux. 
 
 |
 
