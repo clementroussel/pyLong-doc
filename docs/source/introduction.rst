@@ -33,7 +33,7 @@ Les principales fonctionnalités du logiciel **pyLong** sont:
 - **Simplification interactive du profil en long** avec ajout ou suppression de points directement sur le graphique
 - Filtrage du profil en long avec différents algorithmes de traitement du signal (Butterworth, Lowess, Savitzky-Golay)
 - Calcul des pentes longitudinales
-- **Tracé facilité de multiples séries de profils en long et d'annotations** ;
+- **Tracé facilité de multiples séries de profils en long et d'annotations**
 - Fonctionnalités étendues d'affichage et de gestion du rendu graphique : mises en page multiples, ajout de subplots permettant de visualiser d'autres données liées au profil en long (écarts altimétriques, comparaison diachronique, variations de la largeur du lit, etc.)
 - **Toolbox de modèles 1D empiriques de propagation de laves torrentielles et de chutes de blocs**. 
 - Export de la figure graphique dans divers formats pour insertion dans des documents d'étude et/ou publications scientifiques.
