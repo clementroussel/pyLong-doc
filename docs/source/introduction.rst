@@ -49,7 +49,7 @@ Les principales fonctionnalités du logiciel **pyLong** sont:
 Comment citer pyLong
 ====================
 
-.. note:
+.. note::
    ONF-RTM. (2022). pyLong (22.01) [Logiciel de visualisation, d’analyse et de traitement de profil en long]. https://pylong-doc.readthedocs.io/fr/latest/
    
 La petite histoire de pyLong
