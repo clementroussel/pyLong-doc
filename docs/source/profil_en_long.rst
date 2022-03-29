@@ -164,6 +164,17 @@ Projection sur un axe de référence
 Projection d'une entité linéaire
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+.. figure:: ./images/polyline_projection.png
+   :align: center
+   :scale: 50%
+   
+   *Polyline Projection*
+
 Projection d'entités ponctuelles
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+.. figure:: ./images/point_projection.png
+   :align: center
+   :scale: 50%
+   
+   *Point Projection*
