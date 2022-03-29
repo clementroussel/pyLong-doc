@@ -55,10 +55,16 @@ On utilise ici un Modèle Numérique de Terrain (MNT) pour générer les courbes
 3. Création d'une nouvelle couche vectorielle, de type polyligne
 4. Construction du tracé en plan par numérisation manuelle
 5. Génération du profil en long (avec/sans interpolation)
+
     5.1. Génération du profil en long avec le plugin *Profile Tool (Terrain profile)*
     5.2. Génération du profil en long avec le script *Polyline Projection*
 
+Avantages:
+- Choix des points constitutifs du tracé en plan
 
+Inconvévients:
+- Chronophage sur de grands linéaires
+- Génération possible de contre-pentes
 
 
 Utilisation de profils en travers
