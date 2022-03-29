@@ -39,10 +39,12 @@ construire un profil en long.
 8. Utilisation du script *Polyline Projection*
 
 Avantages:
+
 - Rapidité - simplicité
 - Aucun MNT requis car la donnée altimétrique est contenue dans les entités de la couche *TRONCON_HYDROGRAPHIQUE*
 
 Inconvévients:
+
 - Origine, qualité des données altimétriques de la couche *TRONCON_HYDROGRAPHIQUE*
 
 Utilisation des courbes de niveaux
@@ -60,9 +62,11 @@ On utilise ici un Modèle Numérique de Terrain (MNT) pour générer les courbes
     5.2. Génération du profil en long avec le script *Polyline Projection*
 
 Avantages:
+
 - Choix des points constitutifs du tracé en plan
 
 Inconvévients:
+
 - Chronophage sur de grands linéaires
 - Génération possible de contre-pentes
 
@@ -77,9 +81,11 @@ On utilise ici un Modèle Numérique de Terrain (MNT) couplé à des tabulations
 3. Génération des tabulations avec le script *Cross Profiles*
 
 Avantages:
+
 - Rapidité
 
 Inconvénients:
+
 - Génération possible de contre-pentes (par croisement des tabulations)
 
 
