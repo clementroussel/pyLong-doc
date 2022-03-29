@@ -96,6 +96,11 @@ On tire ici profit des algorithmes de la librairie SAGA pour générer un profil
 
 1. Chargement d'un MNT
 2. Remplissage du MNT : cette commande essentielle a pour objectif de remplir les dépressions du MNT (*SAGA > Terrain Analysis – Hydrology > Fill sinks*)
+
+.. image:: ./images/fill_sink.png
+   :align: center
+   :scale: 50%
+
 3. Calcul des superficies de bassins versants (BV) : cette commande calcule pour chaque pixel du MNT la superficie du BV en amont du pixel (*SAGA > Terrain Analysis – Hydrology > Flow Accumulation (Top-Down)*)
 4. Filtrage des superficies de BV : on conserve uniquement les pixels dont la superficie est supérieure à un certain seuil. Cela facilite l'affichage et diminue les temps de calculs des prochains étapes (*Calculatrice Raster* / *Raster Calculator*)
 5. Calcul du réseau hydrographique : cette commande permet de généter le réseau hydrographique sous forme vectorielle (*SAGA > Terrain Analysis – Channels > Channel network*)
