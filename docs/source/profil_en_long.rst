@@ -140,6 +140,14 @@ On tire ici profit des algorithmes de la librairie SAGA pour générer un profil
     * Génération du profil en long avec le plugin *Profile Tool (Terrain profile)*
     * Génération du profil en long avec le script *Polyline Projection*
 
+Avantages:
+
+- Exploite la résolution du MNT
+
+Inconvénients:
+
+- Temps de calculs
+
 
 Projection sur un axe de référence
 ==================================
