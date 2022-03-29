@@ -38,6 +38,13 @@ construire un profil en long.
 7. Ajout d'un champ auto-incrémenté "Id" (*ajouter un champ auto-incrémenté* / "add autoincrement field*)
 8. Utilisation du script *Polyline Projection*
 
+Avantages:
+- Rapidité - simplicité
+- Aucun MNT requis car la donnée altimétrique est contenue dans les entités de la couche *TRONCON_HYDROGRAPHIQUE*
+
+Inconvévients:
+- Origine, qualité des données altimétriques de la couche *TRONCON_HYDROGRAPHIQUE*
+
 Utilisation des courbes de niveaux
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
