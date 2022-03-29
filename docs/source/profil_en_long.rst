@@ -123,7 +123,7 @@ On tire ici profit des algorithmes de la librairie SAGA pour générer un profil
    
    *Flow Accumulation (Top-Down)*
 
-4. Filtrage des superficies de BV : on conserve uniquement les pixels dont la superficie est supérieure à un certain seuil. Cela facilite l'affichage et diminue les temps de calculs des prochains étapes (*Calculatrice Raster* / *Raster Calculator*)
+4. Filtrage des superficies de BV : on conserve uniquement les pixels dont la superficie est supérieure à un certain seuil. Cela facilite l'affichage et diminue les temps de calculs des prochaines étapes (*Calculatrice Raster* / *Raster Calculator*)
 
 .. figure:: ./images/raster_calculator.png
    :align: center
@@ -143,7 +143,7 @@ On tire ici profit des algorithmes de la librairie SAGA pour générer un profil
 7. Enregistrement de la sélection dans une nouvelle couche
 8. Regroupement des tronçons (*regrouper* / *dissolve*)
 9. [Inversion de la géométrie] (*inverser la direction des lignes* / *reverse line direction*)
-10. Simplification du tracé en plan (*simplifier* / *simplify*)
+10. [Simplification du tracé en plan] (*simplifier* / *simplify*)
 11. Génération du profil en long (avec/sans interpolation)
 
     * Génération du profil en long avec le plugin *Profile Tool (Terrain profile)*
@@ -159,7 +159,11 @@ On tire ici profit des algorithmes de la librairie SAGA pour générer un profil
 
 
 Projection sur un axe de référence
-==================================
+----------------------------------
 
+Projection d'une entité linéaire
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Projection d'entités ponctuelles
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
