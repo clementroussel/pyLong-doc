@@ -58,9 +58,8 @@ On utilise ici un Modèle Numérique de Terrain (MNT) pour générer les courbes
 4. Construction du tracé en plan par numérisation manuelle
 5. Génération du profil en long (avec/sans interpolation)
 
-    5.1. Génération du profil en long avec le plugin *Profile Tool (Terrain profile)*
-    
-    5.2. Génération du profil en long avec le script *Polyline Projection*
+    * Génération du profil en long avec le plugin *Profile Tool (Terrain profile)*
+    * Génération du profil en long avec le script *Polyline Projection*
 
 Avantages:
 
