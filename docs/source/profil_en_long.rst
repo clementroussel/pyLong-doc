@@ -50,7 +50,7 @@ Utilisation des courbes de niveaux
 
 On utilise ici un Modèle Numérique de Terrain (MNT) pour générer les courbes de niveaux sur lesquelles le tracé en plan sera construit.
 
-1. Récupération d'un MNT, généralement au format RASTER
+1. Chargement d'un MNT, généralement au format RASTER
 2. Génération des courbes de niveau
 3. Création d'une nouvelle couche vectorielle, de type polyligne
 4. Construction du tracé en plan par numérisation manuelle
@@ -69,6 +69,19 @@ Inconvévients:
 
 Utilisation de profils en travers
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+On utilise ici un Modèle Numérique de Terrain (MNT) couplé à des tabulations (ou profils en tavers) régulièrement espacés sur le tracé en plan.
+
+1. Chargement d'un MNT, généralement au format RASTER
+2. Construction d'un axe en plan
+3. Génération des tabulations avec le script *Cross Profiles*
+
+Avantages:
+- Rapidité
+
+Inconvénients:
+- Génération possible de contre-pentes (par croisement des tabulations)
+
 
 Utilisation des algorithmes de la librairie SAGA
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
