@@ -120,6 +120,13 @@ On tire ici profit des algorithmes de la librairie SAGA pour générer un profil
    *Raster Calculator*
 
 5. Calcul du réseau hydrographique : cette commande permet de généter le réseau hydrographique sous forme vectorielle (*SAGA > Terrain Analysis – Channels > Channel network*)
+
+.. figure:: ./images/channel_network.png
+   :align: center
+   :scale: 50%
+   
+   *Channel Network*
+
 6. Sélection manuelle des tronçons d'intérêt
 7. Enregistrement de la sélection dans une nouvelle couche
 8. Regroupement des tronçons (*regrouper* / *dissolve*)
