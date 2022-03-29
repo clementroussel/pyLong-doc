@@ -39,12 +39,12 @@ construire un profil en long.
 8. [Inversion de la géométrie] (*inverser la direction des lignes* / *reverse line direction*)
 9. Utilisation du script *Polyline Projection*
 
-Avantages:
+**Avantages:**
 
 - Rapidité - simplicité
 - Aucun MNT requis car la donnée altimétrique est contenue dans les entités de la couche *TRONCON_HYDROGRAPHIQUE*
 
-Inconvénients:
+**Inconvénients:**
 
 - Origine, qualité des données altimétriques de la couche *TRONCON_HYDROGRAPHIQUE*
 
@@ -63,13 +63,13 @@ On utilise ici un Modèle Numérique de Terrain (MNT) pour générer les courbes
     * Génération du profil en long avec le plugin *Profile Tool (Terrain profile)*
     * Génération du profil en long avec le script *Polyline Projection*
 
-Avantages:
+**Avantages:**
 
 - Choix des points constitutifs du tracé en plan
 
-Inconvénients:
+**Inconvénients:**
 
-- Chronophage sur de grands linéaires
+- Chronophage sur des grands linéaires
 - Génération possible de contre-pentes
 
 
@@ -83,11 +83,11 @@ On utilise ici un Modèle Numérique de Terrain (MNT) couplé à des tabulations
 3. [Inversion de la géométrie] (*inverser la direction des lignes* / *reverse line direction*)
 4. Génération des tabulations avec le script *Cross Profiles*
 
-Avantages:
+**Avantages:**
 
 - Rapidité
 
-Inconvénients:
+**Inconvénients:**
 
 - Génération possible de contre-pentes (par croisement des tabulations)
 
@@ -122,7 +122,7 @@ On tire ici profit des algorithmes de la librairie SAGA pour générer un profil
    
    *Raster Calculator*
 
-5. Calcul du réseau hydrographique : cette commande permet de généter le réseau hydrographique sous forme vectorielle (*SAGA > Terrain Analysis – Channels > Channel network*)
+5. Calcul du réseau hydrographique : cette commande permet de générer le réseau hydrographique sous forme vectorielle (*SAGA > Terrain Analysis – Channels > Channel network*)
 
 .. figure:: ./images/channel_network.png
    :align: center
@@ -140,11 +140,11 @@ On tire ici profit des algorithmes de la librairie SAGA pour générer un profil
     * Génération du profil en long avec le plugin *Profile Tool (Terrain profile)*
     * Génération du profil en long avec le script *Polyline Projection*
 
-Avantages:
+**Avantages:**
 
 - Exploite la résolution du MNT
 
-Inconvénients:
+**Inconvénients:**
 
 - Temps de calculs
 
