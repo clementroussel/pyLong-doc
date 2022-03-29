@@ -20,8 +20,17 @@ Point de vue hydromorphologique
 Méthodes de génération d'un profil en long
 ==========================================
 
-Avec QGIS
----------
+.. note::
+   - les méthodes de génération d'un profil en long présentées ci-dessous utlisent le logiciel QGIS 3.16.16 avec SAGA 7.8.2
+   - les scripts *Polyline Projection* et *Cross Profiles* s'installent de la manière suivante:
+       * installer l'extension (plugin) *QGIS Resource Sharing*
+       * ajouter le dépôt *ONF-RTM* avec l'url: https://github.com/clementroussel/onf-rtm-qgis.git
+
+.. figure:: ./images/qgis_resource_sharing.png
+   :align: center
+   :scale: 50%
+   
+   *QGIS Resource Sharing*
 
 Utilisation de la BD TOPO® de l'IGN
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
