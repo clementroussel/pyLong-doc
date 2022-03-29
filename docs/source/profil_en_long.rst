@@ -59,6 +59,7 @@ On utilise ici un Modèle Numérique de Terrain (MNT) pour générer les courbes
 5. Génération du profil en long (avec/sans interpolation)
 
     5.1. Génération du profil en long avec le plugin *Profile Tool (Terrain profile)*
+    
     5.2. Génération du profil en long avec le script *Polyline Projection*
 
 Avantages:
@@ -106,6 +107,7 @@ On tire ici profit des algorithmes de la librairie SAGA pour générer un profil
 10. Génération du profil en long (avec/sans interpolation)
 
     10.1. Génération du profil en long avec le plugin *Profile Tool (Terrain profile)*
+
     10.2. Génération du profil en long avec le script *Polyline Projection*
 
 
