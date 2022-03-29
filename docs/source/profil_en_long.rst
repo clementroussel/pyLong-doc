@@ -43,7 +43,7 @@ Avantages:
 - Rapidité - simplicité
 - Aucun MNT requis car la donnée altimétrique est contenue dans les entités de la couche *TRONCON_HYDROGRAPHIQUE*
 
-Inconvévients:
+Inconvénients:
 
 - Origine, qualité des données altimétriques de la couche *TRONCON_HYDROGRAPHIQUE*
 
@@ -52,7 +52,7 @@ Utilisation des courbes de niveaux
 
 On utilise ici un Modèle Numérique de Terrain (MNT) pour générer les courbes de niveaux sur lesquelles le tracé en plan sera construit.
 
-1. Chargement d'un MNT, généralement au format RASTER
+1. Chargement d'un MNT
 2. Génération des courbes de niveau
 3. Création d'une nouvelle couche vectorielle, de type polyligne
 4. Construction du tracé en plan par numérisation manuelle
@@ -65,7 +65,7 @@ Avantages:
 
 - Choix des points constitutifs du tracé en plan
 
-Inconvévients:
+Inconvénients:
 
 - Chronophage sur de grands linéaires
 - Génération possible de contre-pentes
@@ -76,7 +76,7 @@ Utilisation de profils en travers
 
 On utilise ici un Modèle Numérique de Terrain (MNT) couplé à des tabulations (ou profils en tavers) régulièrement espacés sur le tracé en plan.
 
-1. Chargement d'un MNT, généralement au format RASTER
+1. Chargement d'un MNT
 2. Construction d'un axe en plan
 3. Génération des tabulations avec le script *Cross Profiles*
 
@@ -91,6 +91,23 @@ Inconvénients:
 
 Utilisation des algorithmes de la librairie SAGA
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+On tire ici profit des algorithmes de la librairie SAGA pour générer un profil en long de manière semi-automatique.
+
+1. Chargement d'un MNT
+2. Remplissage du MNT : cette commande essentielle a pour objectif de remplir les dépressions du MNT (*SAGA > Terrain Analysis – Hydrology > Fill sinks*)
+3. Calcul des superficies de bassins versants (BV) : cette commande calcule pour chaque pixel du MNT la superficie du BV en amont du pixel (*SAGA > Terrain Analysis – Hydrology > Flow Accumulation (Top-Down)*)
+4. Filtrage des superficies de BV : on conserve uniquement les pixels dont la superficie est supérieure à un certain seuil. Cela facilite l'affichage et diminue les temps de calculs des prochains étapes (*Calculatrice Raster* / *Raster Calculator*)
+5. Calcul du réseau hydrographique : cette commande permet de généter le réseau hydrographique sous forme vectorielle (*SAGA > Terrain Analysis – Channels > Channel network*)
+6. Sélection manuelle des tronçons d'intérêt
+7. Enregistrement de la sélection dans une nouvelle couche
+8. Regroupement des tronçons (*regrouper* / *dissolve*)
+9. Simplification du tracé en plan (*simplifier* / *simplify*)
+10. Génération du profil en long (avec/sans interpolation)
+
+    10.1. Génération du profil en long avec le plugin *Profile Tool (Terrain profile)*
+    10.2. Génération du profil en long avec le script *Polyline Projection*
+
 
 Projection sur un axe de référence
 ==================================
