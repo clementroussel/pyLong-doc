@@ -159,7 +159,7 @@ On tire ici profit des algorithmes de la librairie SAGA pour générer un profil
 
 
 Projection sur un axe de référence
-----------------------------------
+==================================
 
 Projection d'une entité linéaire
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
