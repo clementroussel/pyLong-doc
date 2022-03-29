@@ -112,6 +112,13 @@ On tire ici profit des algorithmes de la librairie SAGA pour générer un profil
    *Flow Accumulation (Top-Down)*
 
 4. Filtrage des superficies de BV : on conserve uniquement les pixels dont la superficie est supérieure à un certain seuil. Cela facilite l'affichage et diminue les temps de calculs des prochains étapes (*Calculatrice Raster* / *Raster Calculator*)
+
+.. figure:: ./images/raster_calculator.png
+   :align: center
+   :scale: 50%
+   
+   *Raster Calculator*
+
 5. Calcul du réseau hydrographique : cette commande permet de généter le réseau hydrographique sous forme vectorielle (*SAGA > Terrain Analysis – Channels > Channel network*)
 6. Sélection manuelle des tronçons d'intérêt
 7. Enregistrement de la sélection dans une nouvelle couche
