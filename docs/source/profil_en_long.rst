@@ -26,6 +26,18 @@ Avec QGIS
 Utilisation de la BD TOPO® de l'IGN
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+La BD TOPO® de l'IGN possède une couche nommée *TRONCON_HYDROGRAPHIQUE*, classée dans la thématique *HYDROGRAPHIE*, qu'il est possible d'exploiter pour
+construire un profil en long.
+
+1. Téléchargement de la BD TOPO® depuis le portail https://geoservices.ign.fr/bdtopo
+2. Chargement de la couche *TRONCON_HYDROGRAPHIQUE* dans QGIS
+3. Sélection manuelle des tronçons d'intérêt
+4. Enregistrement de la sélection dans une nouvelle couche
+5. Regroupement des tronçons (*regrouper* / *dissolve*)
+6. Suppression de tous les champs de la table attributaire (*supprimer champ(s)* / *drop fields*)
+7. Ajout d'un champ auto-incrémenté "Id" (*ajouter un champ auto-incrémenté* / "add autoincrement field*)
+8. Utilisation du script *Polyline Projection*
+
 Utilisation des courbes de niveaux
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
@@ -35,7 +47,8 @@ Utilisation de profils en travers
 Utilisation des algorithmes de la librairie SAGA
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-
+Projection sur un axe de référence
+==================================
 
 
 
