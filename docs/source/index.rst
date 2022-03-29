@@ -18,6 +18,7 @@ Bienvenue sur le site du logiciel pyLong
    introduction
    installation
    commandes
+   profil_en_long
    tutoriels
    toolbox
    contact
