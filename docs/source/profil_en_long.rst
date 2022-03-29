@@ -36,7 +36,8 @@ construire un profil en long.
 5. Regroupement des tronçons (*regrouper* / *dissolve*)
 6. Suppression de tous les champs de la table attributaire (*supprimer champ(s)* / *drop fields*)
 7. Ajout d'un champ auto-incrémenté "Id" (*ajouter un champ auto-incrémenté* / "add autoincrement field*)
-8. Utilisation du script *Polyline Projection*
+8. [Inversion de la géométrie] (*inverser la direction des lignes* / *reverse line direction*)
+9. Utilisation du script *Polyline Projection*
 
 Avantages:
 
@@ -56,7 +57,8 @@ On utilise ici un Modèle Numérique de Terrain (MNT) pour générer les courbes
 2. Génération des courbes de niveau
 3. Création d'une nouvelle couche vectorielle, de type polyligne
 4. Construction du tracé en plan par numérisation manuelle
-5. Génération du profil en long (avec/sans interpolation)
+5. [Inversion de la géométrie] (*inverser la direction des lignes* / *reverse line direction*)
+6. Génération du profil en long (avec/sans interpolation)
 
     * Génération du profil en long avec le plugin *Profile Tool (Terrain profile)*
     * Génération du profil en long avec le script *Polyline Projection*
@@ -78,7 +80,8 @@ On utilise ici un Modèle Numérique de Terrain (MNT) couplé à des tabulations
 
 1. Chargement d'un MNT
 2. Construction d'un axe en plan
-3. Génération des tabulations avec le script *Cross Profiles*
+3. [Inversion de la géométrie] (*inverser la direction des lignes* / *reverse line direction*)
+4. Génération des tabulations avec le script *Cross Profiles*
 
 Avantages:
 
@@ -130,12 +133,12 @@ On tire ici profit des algorithmes de la librairie SAGA pour générer un profil
 6. Sélection manuelle des tronçons d'intérêt
 7. Enregistrement de la sélection dans une nouvelle couche
 8. Regroupement des tronçons (*regrouper* / *dissolve*)
-9. Simplification du tracé en plan (*simplifier* / *simplify*)
-10. Génération du profil en long (avec/sans interpolation)
+9. [Inversion de la géométrie] (*inverser la direction des lignes* / *reverse line direction*)
+10. Simplification du tracé en plan (*simplifier* / *simplify*)
+11. Génération du profil en long (avec/sans interpolation)
 
-    10.1. Génération du profil en long avec le plugin *Profile Tool (Terrain profile)*
-
-    10.2. Génération du profil en long avec le script *Polyline Projection*
+    * Génération du profil en long avec le plugin *Profile Tool (Terrain profile)*
+    * Génération du profil en long avec le script *Polyline Projection*
 
 
 Projection sur un axe de référence
