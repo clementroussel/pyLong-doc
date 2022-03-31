@@ -81,26 +81,6 @@ On utilise ici un Modèle Numérique de Terrain (MNT) pour générer les courbes
 - Chronophage sur des grands linéaires
 - Génération possible de contre-pentes
 
-
-Utilisation de profils en travers
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-On utilise ici un Modèle Numérique de Terrain (MNT) couplé à des tabulations (ou profils en tavers) régulièrement espacés sur le tracé en plan.
-
-1. Chargement d'un MNT
-2. Construction d'un axe en plan
-3. [Inversion de la géométrie] (*inverser la direction des lignes* / *reverse line direction*)
-4. Génération des tabulations avec le script *Cross Profiles*
-
-**Avantages:**
-
-- Rapidité
-
-**Inconvénients:**
-
-- Génération possible de contre-pentes (par croisement des tabulations)
-
-
 Utilisation des algorithmes de la librairie SAGA
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
