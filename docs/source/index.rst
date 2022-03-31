@@ -4,8 +4,8 @@
    
 |
 
-Welcome to the pyLong software documentation
-********************************************
+Bienvenue sur la documentation de pyLong
+****************************************
 
 .. image:: ./icones/pyLong.png
    :align: center
