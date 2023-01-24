@@ -26,16 +26,11 @@ Version 22.01
 
 .. _pyLong v22.01: https://sourceforge.net/projects/pylong/files/pyLong_22-01.zip/download
 
-Installation
-------------
+Lancement
+---------
 
 - Décompressez l'archive *pyLong_22-01.zip* à un emplacement ne contenant pas d'espace (le caractère) dans son chemin d'accès.
 - Recherchez puis exécuter *pyLong.exe*
 
 .. warning::
    - Un terminal Windows s'ouvre en même temps que **pyLong**. Ignorez le mais ne le fermez pas au risque de fermer **pyLong** également.
-
-Désinstallation
----------------
-
-- **pyLong** se désinstalle grâce à l'exécutable *uninstall.exe* situé dans son répertoire d'installation.
